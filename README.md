@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.ap...&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UditSharma9999&theme=radical)
