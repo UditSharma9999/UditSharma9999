@@ -13,6 +13,22 @@
 <h2 align="center"> About me</h2><br>
 <p>I am student at University School of Automation and Robotics, GGSIPU pursuing Btech in Artificial Intelligence and Data Science. I am a web developer and designer working on software development cell of USICT and USAR. Excited about acquiring new talents and discovering new things.</p>
 
+
+
+<br/>
+<br/>
+<h3> 💻 Coding Profile's: </h3>
+
+<p align="left"> 
+    <a href="https://leetcode.com/udits0999/" target="_blank"> <img src="https://github.com/Jayantk123/know-about-me/blob/main/leetcode-logo.png" width="50vh"> </a>&nbsp
+    <a href="https://auth.geeksforgeeks.org/user/udits0999/" target="_blank"> <img src="https://github.com/Jayantk123/know-about-me/blob/main/gfg%20logo.png" width="50vh"> </a>&nbsp
+
+</p>
+
+<br/>
+<br/>
+
+
 <a align="center"> ![View](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet) </a>
 
 <a align="center"> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UditSharma9999&theme=radical) </a>
